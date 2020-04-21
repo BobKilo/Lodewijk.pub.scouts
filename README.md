@@ -3,7 +3,7 @@ Javascript voor Lodewijk, aangepast voor publicatie en leeftijd.
 Dit is de code waarmee ik (Bop) Lodewijk aan de praat heb gekregen. 
 Omdat jullie het blijkbaar net zo leuk vinden als ik kreeg ik de vraag of ik de code kon delen.
 Ik heb echter enkele functies uit de code weggelaten, denk daarbij vooral aan alle scheldwoorden etc. 
-De code is echter niet drastisch aangepast, dus het is nog steeds 'Lodewijk'
+De code is niet drastisch aangepast, dus het is nog steeds 'Lodewijk'
 
 Om de code voor alle functies aan te passen moet je `index.js` openen. De andere bestanden zijn zodig om de bot te draaien, dus daar moet je eigenlijk niks aan doen.
 Onderaan `index.js` staat een functie voor de `BOT_TOKEN`. De bot token linkt de code aan de bot, zodra je alles aanzet.
